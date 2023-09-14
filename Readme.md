@@ -3,7 +3,7 @@
    - Briefly introduces the analysis and the purpose of the code.
    - Highlights the dataset used.
 
-2. **Data Exploration:
+2. **Data Exploration:**
    - Mention the analysis performed on room preferences.
    - Grouping and counting data by neighborhood groups and neighborhoods.
    - Displaying the dataset's columns and data types.
